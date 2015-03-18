@@ -1,0 +1,42 @@
+[{
+	"keys": ["ctrl+q"],
+	"command": "toggle_comment",
+	"args": {
+		"block": false
+	}
+},
+{
+	"keys": ["ctrl+shift+q"],
+	"command": "toggle_comment",
+	"args": {
+		"block": true
+	}
+},
+{
+	"keys": ["ctrl+alt+p"],
+	"command": "autoprefixer"
+},
+{
+	"keys": ["ctrl+shift+t"],
+	"command": "delete_trailing_spaces"
+},
+{
+	"keys": ["ctrl+d"],
+	"command": "duplicate_line"
+},
+{
+	"keys": ["ctrl+alt+s"],
+	"command": "save_all"
+},
+{
+	"keys": ["ctrl+shift+w"],
+	"command": "unexpand_tabs",
+	"args": {
+		"set_translate_tabs": false
+	}
+},
+{
+	"keys": ["ctrl+shift+n"],
+	"command": "new_window"
+}
+]

@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better JavaScript",
+		"BracketHighlighter",
+		"CSSFontFamily",
+		"DocBlockr",
+		"Emmet",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"Minifier",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"StringEncode",
+		"StringUtilities",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Spacegray",
+		"Toggle Css Format",
+		"ToggleQuotes",
+		"TrailingSpaces",
+		"Various Ipsum Snippets"
+	]
+}

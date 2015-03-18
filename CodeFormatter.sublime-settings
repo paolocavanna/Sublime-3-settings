@@ -1,0 +1,8 @@
+"codeformatter_css_options":
+	{
+		"indent_size": 4, // Indentation size
+		"indent_char": " ", // Indentation character
+		"indent_with_tabs": false, // Indent with one tab (overrides indent_size and indent_char options)
+		"selector_separator_newline": true, // Add new lines after selector separators
+		"end_with_newline": false // Add new line of end in file
+	}

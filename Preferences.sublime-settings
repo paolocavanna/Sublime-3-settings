@@ -1,0 +1,16 @@
+{
+	"animation_enabled": false,
+	"color_scheme": "Packages/User/Blackboard (SL).tmTheme",
+	"detect_indentation": false,
+	"draw_white_space": "all",
+	"font_size": 13,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"JavaScript",
+		"Vintage"
+	],
+	"show_encoding": true,
+	"tree_animation_enabled": false,
+	"trim_trailing_white_space_on_save": true
+}
