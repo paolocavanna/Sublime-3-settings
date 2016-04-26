@@ -1,4 +1,5 @@
-[{
+[
+{
 	"keys": ["ctrl+q"],
 	"command": "toggle_comment",
 	"args": {
@@ -11,10 +12,6 @@
 	"args": {
 		"block": true
 	}
-},
-{
-	"keys": ["ctrl+alt+p"],
-	"command": "autoprefixer"
 },
 {
 	"keys": ["ctrl+shift+t"],
@@ -38,5 +35,17 @@
 {
 	"keys": ["ctrl+shift+n"],
 	"command": "new_window"
+},
+{
+	"keys": ["alt+shift+p"],
+	"command": "autoprefixer"
+},
+{
+	"keys": ["ctrl+alt+p"],
+	"command": "prompt_select_workspace"
+},
+{
+	"keys": ["ctrl+alt+j"],
+	"command": "sublimelinter_lint"
 }
 ]

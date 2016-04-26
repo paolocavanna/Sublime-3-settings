@@ -24,9 +24,29 @@
 				"ignore": "",
 				"warnings": ""
 			},
-			"jshint":
+			"eslint":
 			{
 				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"eslint_d":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"jshint":
+			{
+				"@disable": true,
 				"args":
 				[
 				],
@@ -37,6 +57,7 @@
 		},
 		"mark_style": "squiggly underline",
 		"no_column_highlights_line": false,
+		"passive_warnings": false,
 		"paths":
 		{
 			"linux":

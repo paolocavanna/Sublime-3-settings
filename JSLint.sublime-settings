@@ -1,0 +1,9 @@
+{
+	"options": [
+		"--predef", "['FCA', 'accounting', 'Fastclick', 'browser', '\\$', 'JQuery']",
+		"--this",
+		"--white",
+		"--nomen",
+		"--maxerr", "500"
+	]
+}
